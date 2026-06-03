@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="OpenAI" modified="2026-06-03T00:00:00.000Z" agent="GitHub Copilot" version="24.7.17">
+  <diagram id="funzioni-riservate" name="Funzioni Riservate">
+    <mxGraphModel dx="1893" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1893" pageHeight="1611" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Funzioni&lt;br&gt;Riservate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0e0f0;strokeColor=#6f8fa3;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="84" y="335" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0e0f0;strokeColor=#6f8fa3;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="12" width="912" height="741" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;Funzioni Riservate&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="28" width="280" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&amp;bull; Nuova procedura di Acquisizione domande DS OnLine/OffLine&lt;br&gt;&amp;bull; Lista operazioni registrate&lt;br&gt;&amp;bull; Variazione codice esito domanda per tutte le prestazioni tranne Requisiti Ridotti&lt;br&gt;&amp;bull; Azzeramento pagamento per tutte le prestazioni tranne Requisiti Ridotti, Mobilit&#224; e Anticip. Mobilit&#224;&lt;br&gt;&amp;bull; Definizione di una domanda a zero giornate, totalmente indebita, per tutte le prestazioni tranne Requisiti Ridotti e Mobilit&#224;&lt;br&gt;&amp;bull; Annullamento istruttoria per tutte le prestazioni tranne Requisiti Ridotti: riporta le domande in stato P&lt;br&gt;&amp;bull; Annullamento istruttoria e calcolo per Requisiti Ridotti e Miniaspi 2012&lt;br&gt;&amp;bull; Annullamento del pagamento di una domanda DS Requisiti Ridotti&lt;br&gt;&amp;bull; Annullamento del pagamento diretto ANF per Requisiti Ridotti&lt;br&gt;&amp;bull; Cancellazione domanda&lt;br&gt;&amp;bull; Cancellazione domanda e trasferimento per acquisizione ad altra sede&lt;br&gt;&amp;bull; Chiusura domande ante 07/1999&lt;br&gt;&amp;bull; Sistemazione periodi contributivi&lt;br&gt;&amp;bull; Variazione Ordinaria per ricalcolo / autocertificazione&lt;br&gt;&amp;bull; Variazione Aspi, Miniaspi e Naspi per ricalcolo&lt;br&gt;&amp;bull; Modifica Codice Centro Operativo&lt;br&gt;&amp;bull; Crea chiave gestionale&lt;br&gt;&amp;bull; Riliquidazione Frontalieri&lt;br&gt;&amp;bull; Utility di compattamento dei periodi di sospensione&lt;br&gt;&amp;bull; Chiusura domande di mobilit&#224; senza pagamenti&lt;br&gt;&amp;bull; Variazione qualifica, matricola azienda e CSC&lt;br&gt;&amp;bull; Congelamento/Scongelamento periodi contributivi&lt;br&gt;&amp;bull; Recupero indebiti piloti rioccupati all'estero&lt;br&gt;&amp;bull; Visualizzazione importi indebiti dei piloti rioccupati all'estero&lt;br&gt;&amp;bull; Modifica delle giornate di mobilit&#224; in deroga&lt;br&gt;&amp;bull; Consultazione storico calcolo durata NASPI e DISCOLL&lt;br&gt;&amp;bull; Rettifica contributi figurativi domande mobilit&#224; cod. cess. 77&lt;br&gt;&amp;bull; Consultazione domande telematiche base nazionale&lt;br&gt;&amp;bull; Inserimento nuovi periodi neutri per domande NASpI in stato L (obsoleta)&lt;br&gt;&amp;bull; Acquisizione/Variazione Iban Estero&lt;br&gt;&amp;bull; Forzatura del totale delle giornate utilizzate&lt;br&gt;&amp;bull; Variazione periodi LPU/D.L. 280/97 e accredito contributi figurativi&lt;br&gt;&amp;bull; Ripristino periodo teorico ante proroga per domande Naspi e DisColl&lt;br&gt;&amp;bull; Imposta/annulla gestione Naspi Giornalisti&lt;br&gt;&amp;bull; Trasferimento domanda DS tra sedi&lt;br&gt;&amp;bull; Attribuzione Contribuzione Figurativa Domande ante 2000&lt;br&gt;&amp;bull; Variazione Fondo Volo e Fondo Servizi Ambientali&lt;br&gt;&amp;bull; Variazione Indennit&#224; di Tirocinio&lt;br&gt;&amp;bull; Consultazione oneri di mobilit&#224; lunga&lt;br&gt;&amp;bull; Riapertura Bonus 200/150 definiti a zero giornate" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="75" width="830" height="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
